@@ -5,8 +5,8 @@ header-img: img/home-bg.jpg
 email: Suzy-zengli@qq.com
 description: ""
 keyword: ""
-url: "https://hacker-zeng.github.io/"              # your host, for absolute URL
-baseurl: "/Hacker-Zeng.github.io"                             # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://zengli.space"              # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
