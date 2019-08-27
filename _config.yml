@@ -105,15 +105,22 @@ page-mathjax: false
 friends: [
     {
         title: "回主页" ,
-        href:  "https://hacker-zeng.github.io/Hacker-Zeng.github.io/"
+        href:  "https://zengli.space"
     },{
         title: "关于我",
-        href: "https://hacker-zeng.github.io/Hacker-Zeng.github.io/about/"
+        href: "https://zengli.space/about/"
     },{
         title: "文章汇总",
-        href: "https://hacker-zeng.github.io/Hacker-Zeng.github.io/archive/"
+        href: "https://zengli.space/archive/"
+    },{
+        title: "JryCombo",
+        href: "https://jrycombo.space"
+    },{
+        title: "Starrk",
+        href: "https://www.starrk.me"
     },{
         title: "广告链接",
         href: ""
     }
+    
 ]
