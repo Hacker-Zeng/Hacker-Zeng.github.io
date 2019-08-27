@@ -3,7 +3,7 @@ layout: post
 title: "我的自留地，第一篇博客"
 subtitle: "Welcome to my blog，This is my first blog!"
 author: "Zengli"
-header-img: /img/in_post/firstBolg"
+header-img: /img/in_post/firstBolg/firstBlog_bg.jpg"
 header-mask: 0.3
 mathjax: true
 tags:
@@ -15,7 +15,8 @@ tags:
 
 首先欢迎来到我的博客站！长期域名[zengli.space](zengli.space)       
 电脑版效果图   
-![](/img/in_post/firstBolg/pc_home.png)
+![](/img/in_post/firstBolg/pc_home.png)         
+         
 移动端效果图               
 ![](/img/in_post/firstBolg/mobile_home.png)
 
