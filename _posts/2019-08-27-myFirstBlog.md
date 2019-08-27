@@ -13,11 +13,11 @@ tags:
 > Welcome to my blog!  
 > 终于自建好自己专属的博客，写下第一篇文章记录并规划
 
-首先欢迎来到我的博客站！长期域名[zengli.space](zengli.space)
+首先欢迎来到我的博客站！长期域名[zengli.space](zengli.space)       
 电脑版效果图   
-[电脑版效果图](/img/in_post/firstBolg/pc_home.png)
-移动端效果图
-[手机段效果图](/img/in_post/firstBolg/mobile_home.png)
+![](/img/in_post/firstBolg/pc_home.png)
+移动端效果图               
+![](/img/in_post/firstBolg/mobile_home.png)
 
 折折腾腾的终于自建好了自己的个人博客站，想写第一篇文章来记录一下，同时也在此规划一下怎么使用这个自己的小天地，主要用来分享一些自己写的技术类文章，学习心得，可能偶尔也会写点生活经历与杂谈吧。未来到此回望我用时间到底换得了什么吧！   
 
