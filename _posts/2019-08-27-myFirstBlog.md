@@ -3,7 +3,7 @@ layout: post
 title: "我的自留地，第一篇博客"
 subtitle: "Welcome to my blog，This is my first blog!"
 author: "Zengli"
-header-img: "/img/post-bg-firstBlog.jpg"
+header-img: "img/post-bg-firstBlog.jpg"
 header-mask: 0.3
 mathjax: true
 tags:
