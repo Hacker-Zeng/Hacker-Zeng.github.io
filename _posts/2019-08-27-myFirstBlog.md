@@ -3,7 +3,7 @@ layout: post
 title: "我的自留地，第一篇博客"
 subtitle: "Welcome to my blog，This is my first blog!"
 author: "Zengli"
-header-img: "img/post-bg-infinity.jpg"
+header-img: "/img/in_post/firstBolg/firstBlog_bg.jpg"
 header-mask: 0.3
 mathjax: true
 tags:
@@ -37,4 +37,4 @@ tags:
 本站主要内容是偏技术类文章的，以干货为主。包括但不限于**理论、实践、教程、问题解决、思考**等。所以比较偏专业化，只有同行会有兴趣。        
 同时，希望未来的自己除了专业知识上，**英语、生活、人文、思想上都能有所收获！**
 
-`*果然写一篇文章好难，本来有很多想法，结果写出来就这鬼样，还是得练输出能力*`
+`果然写一篇文章好难，本来有很多想法，结果写出来就这鬼样，还是得练输出能力`

@@ -1,4 +1,4 @@
-> Welcome to my Blog  欢迎来访我的博客       
+> 欢迎来访我的博客 Welcome to my Blog                 
 > 联系邮箱：zengli@stu.scu.edu.cn
 
 Hey，我是曾理，中国人。     
